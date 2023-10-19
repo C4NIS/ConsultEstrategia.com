@@ -26,4 +26,4 @@ Se você compartilha nosso entusiasmo por dados e administração estratégica, 
 Se você é um entusiasta de dados, um especialista em administração ou alguém que busca conhecimento, este é o lugar certo para estar. Vamos trabalhar juntos para transformar dados em resultados tangíveis!
 
 <h2>Licença:</h2>
-Este projeto é distribuído sob a licença [inserir o tipo de licença]. Consulte o arquivo LICENSE para obter detalhes.
+Este projeto é distribuído sob a licença [GPL-3.0 license]. Consulte o arquivo LICENSE para obter detalhes.
